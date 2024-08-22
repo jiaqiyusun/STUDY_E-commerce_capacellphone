@@ -226,9 +226,6 @@ export default function Home() {
           </ul>
         </MaxWidthWrapper>
       </section>
-      <section>
-        <Footer/>
-      </section>
     </div>
   );
 }
