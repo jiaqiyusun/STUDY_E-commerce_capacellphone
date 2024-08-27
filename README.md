@@ -8,3 +8,9 @@
 <br />
 4. in this case, we use **Kinde** for the Auth. But i also remember that we can do it by **WorkOS**.
     - Kinde  BAD: have really bad taste and can not set password for website Good: easy use 
+
+https://developer.mozilla.org/ - search css
+
+Stripr -paymente
+
+npmjs - install problem
